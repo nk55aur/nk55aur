@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm NITISH KUMAR
 **A passionate CyberSecurity Engineer || Pentester || Bug Bounty || websites Security .....**
 
-Email Me 👉 ✉️ **22beccs.cse@cujammu.ac.in** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **22beccs27.cse@cujammu.ac.in** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Image Encryption Using Chaotic Algorithms
 - 🌱 **I’m currently learning:** Red Team and Blue team
