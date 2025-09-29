@@ -8,9 +8,6 @@ Email Me 👉 ✉️ **22beccs27.cse@cujammu.ac.in** For Collaboration/Project o
 - 👯 **I’m looking to collaborate on:**Image Encryption
 - 🤔 **I’m looking for help with:** Image Encryption
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:22beccs27.cse@cujammu.ac.in
-- 😄 **Pronouns:*  sidd
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
